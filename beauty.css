@@ -1,9 +1,5 @@
-body{
-    background-color: none;
-}
-
 p{
-    color: aqua;
+    color: black;
 }
 
 h3{
@@ -15,4 +11,8 @@ h3{
 }
 h1{ 
     background-color: aqua;
+}
+body{
+    background-color: chartreuse;
+
 }
